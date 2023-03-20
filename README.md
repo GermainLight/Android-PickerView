@@ -1,1 +1,2 @@
 Android-PickerView有时间选择器和选项选择器
+作者未将PickerView项目中依赖的库从 JCenter 迁移到 mavenCentral
